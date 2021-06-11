@@ -1,0 +1,18 @@
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,119,121,1) 0%, rgba(0,212,255,1) 100%); 
+}
+
+.sidebar-nav {
+	width:250px;
+}
+.user-name{
+	text-align: center;
+	margin:0 auto;
+	font-size: 16px;
+}
+.user-photo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
